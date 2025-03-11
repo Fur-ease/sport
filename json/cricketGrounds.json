@@ -1,0 +1,44 @@
+[
+    {
+      "image": "images/pic.jpeg",
+      "title": "Camp nour",
+      "rating": "8.5",
+      "price": "15",
+      "location": "nyali"
+    },
+    {
+        "image": "images/football.jpeg",
+        "title": "Camp nour",
+        "rating": "8.5",
+        "price": "15",
+        "location": "kisauni"
+    },
+    {
+        "image": "images/football.jpeg",
+        "title": "Camp nour",
+        "rating": "8.5",
+        "price": "15",
+        "location": "tudor"
+    },
+    {
+        "image": "images/football.jpeg",
+        "title": "Camp nour",
+        "rating": "8.5",
+        "price": "15",
+        "location": "kizingo"
+    },
+    {
+        "image": "images/football.jpeg",
+        "title": "Camp nour",
+        "rating": "8.5",
+        "price": "15",
+        "location": "majengo"
+    },
+    {
+        "image": "images/football.jpeg",
+        "title": "Camp nour",
+        "rating": "8.5",
+        "price": "15",
+        "location": "serani"
+    }
+]

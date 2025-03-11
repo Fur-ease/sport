@@ -1,0 +1,22 @@
+[
+    {
+      "image": "images/football.jpeg",
+      "title": "watch now",
+      "description": "Watch live games and highlights of your favorite teams."
+    },
+    {
+       "image": "images/pic.jpg",
+      "title": "Book now",
+      "description": "Book a football ground now and get the best experience.\n play with your friends."
+    },
+    {
+        "image": "images/cfs.jpg",
+       "title": "Buy now",
+       "description": "Buy your training and football kit now."
+    },
+    {
+      "image": "images/pic.jpg",
+     "title": "Book now",
+     "description": "Book a football ground now and get the best experience.\n play with your friends."
+    }
+]
